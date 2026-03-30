@@ -1,4 +1,4 @@
-# Sistema de Gestão de Empréstimos - SJF Juristas
+# Sistema de Gestão de Empréstimos
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
