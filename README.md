@@ -8,10 +8,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ## Sobre o Projeto
 
-O **Sistema SJF Juristas** é uma solução completa e robusta desenvolvida para a gestão, controle e operacionalização de empréstimos financeiros. A plataforma visa automatizar o fluxo de propostas, aprovações, desembolsos e acompanhamento de pagamentos, oferecendo interfaces específicas para administradores e clientes finais.
+Solução completa e robusta desenvolvida para a gestão, controle e operacionalização de empréstimos financeiros. A plataforma visa automatizar o fluxo de propostas, aprovações, desembolsos e acompanhamento de pagamentos, oferecendo interfaces específicas para administradores e clientes finais.
 
 O ecossistema é composto por quatro pilares principais:
 1.  **Backend API (Spring Boot):** O núcleo do sistema, responsável pela lógica de negócios, segurança e persistência de dados.
