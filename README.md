@@ -17,7 +17,6 @@ O ecossistema é composto por quatro pilares principais:
 2.  **Admin Dashboard (Next.js):** Interface web para gestão administrativa (aprovação de propostas, relatórios, gestão de usuários).
 3.  **Landing Page / Web (Next.js):** Portal público institucional.
 4.  **Mobile App (React Native/Expo):** Aplicativo para clientes acompanharem seus empréstimos, visualizarem parcelas e realizarem pagamentos.
-
 ---
 
 ## Tecnologias Utilizadas
