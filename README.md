@@ -46,7 +46,6 @@ O ecossistema é composto por quatro pilares principais:
 * **Containerização:** Docker e Docker Compose
 * **Proxy Reverso:** Nginx
 * **Banco de Dados:** PostgreSQL (com scripts de seed e init)
-
 ---
 
 ## Funcionalidades Principais
