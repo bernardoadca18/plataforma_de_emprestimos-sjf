@@ -67,7 +67,6 @@ O ecossistema é composto por quatro pilares principais:
 * **Auditoria e Notificações:**
     * Logs de auditoria para ações sensíveis.
     * Sistema de notificações para o usuário.
-
 ---
 
 ## Pré-requisitos
